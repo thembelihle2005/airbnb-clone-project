@@ -17,3 +17,20 @@ Improve capabilities in documenting and planning large-scale software projects.
 
 Learn how to intergrate technnologies such as Django, MySQL, and GraphQL into a cohensive tech stack.
 
+DATABASE DESIGN
+
+User Accounts: Build a secure system for user sign-up, login, and profile handling.
+
+Property Listings: Enable users to create, modify, and view property listings.
+
+Reservation System: Design a feature that allows users to book properties and manage their reservations.
+
+Payment Integration: Implement a payment gateway to process transactions and maintain payment records.
+
+Feedback & Ratings: Provide functionality for users to submit property reviews and ratings.
+
+Database Efficiency: Optimize database operations for fast and reliable data access and storage.
+
+
+
+
