@@ -38,7 +38,7 @@ Database Administrator: Designs and optimizes databases for performance.
 DevOps Engineer: Manages deployment, monitoring, and scaling of backend systems.
 
 QA Engineer: Tests backend features to ensure quality and reliability.<br>
-<h1> TECHNOLOGY STACK OVERVIEW</h1> <br>
+<h1> TECHNOLOGY STACK </h1> <br>
 
 
 Django: High-level Python web framework for building RESTful APIs
@@ -56,7 +56,35 @@ Redis: Used for caching and session management
 Docker: Provides consistent development and deployment environments
 
 CI/CD Pipelines: Automates testing and deployment of code changes <br> 
-<h1>           </h1>
+<h1> FEATURE BREAKDOWN</h1> <br>
+
+User Authentication:
+This feature allows users to register, log in, and manage their profiles securely. It includes authentication mechanisms to protect user data and ensure secure access to the system.
+
+Property Management:
+Users can create, update, retrieve, and delete property listings. It enables hosts to manage property details and availability.
+
+Booking System:
+Facilitates users in making, modifying, and managing property bookings. It includes details such as check-in and check-out dates to coordinate reservations accurately.
+
+Payment Processing:
+Handles all transactions related to bookings, ensuring secure and seamless payment processing. It may include integration with third-party payment gateways for added reliability.
+
+Review System:
+Allows users to post, edit, and manage reviews for properties they have booked. This helps maintain transparency and trust within the platform.
+
+Database Optimizations: <br>
+Indexing: Implements indexes on key database fields to speed up search and retrieval of frequent queries.<br>
+Caching: Uses caching strategies to store frequently accessed data, reducing database load and improving application performance.
+
+
+
+
+
+
+
+
+
 
 
 
