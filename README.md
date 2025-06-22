@@ -1,4 +1,4 @@
-<h1>ARIBNB-CLONE-PROJECT OVERVIEW</h1>
+<h1>AIRBNB-CLONE-PROJECT OVERVIEW</h1>
 
 <body>This Project dives deep into full- stack development, focusing on backed systems, API development, Database design, and application security.
 
@@ -37,8 +37,26 @@ Database Administrator: Designs and optimizes databases for performance.
 
 DevOps Engineer: Manages deployment, monitoring, and scaling of backend systems.
 
-QA Engineer: Tests backend features to ensure quality and reliability.
+QA Engineer: Tests backend features to ensure quality and reliability.<br>
+<h1> TECHNOLOGY STACK OVERVIEW</h1> <br>
 
+
+Django: High-level Python web framework for building RESTful APIs
+
+Django REST Framework: Tools for managing RESTful APIs
+
+PostgreSQL: Relational database for storing data
+
+GraphQL: Enables flexible and efficient data querying
+
+Celery: Handles asynchronous tasks (e.g., notifications, payments)
+
+Redis: Used for caching and session management
+
+Docker: Provides consistent development and deployment environments
+
+CI/CD Pipelines: Automates testing and deployment of code changes <br> 
+<h1>           </h1>
 
 
 
