@@ -1,8 +1,8 @@
-ARIBNB-CLONE-PROJECT OVERVIEW
+<h1>ARIBNB-CLONE-PROJECT OVERVIEW</h1>
 
-This Project dives deep into full- stack development, focusing on backed systems, API development, Database design, and application security.
+<body>This Project dives deep into full- stack development, focusing on backed systems, API development, Database design, and application security.
 
-THE PROJECT GOALS AND TECH STACK
+<h1>THE PROJECT GOALS AND TECH STACK</h1>
 
 Develop team axpertise in collaborative team workflows using Github.
 
@@ -17,7 +17,7 @@ Improve capabilities in documenting and planning large-scale software projects.
 
 Learn how to intergrate technnologies such as Django, MySQL, and GraphQL into a cohensive tech stack.
 
-DATABASE DESIGN
+<h1>DATABASE DESIGN</h1>
 
 User Accounts: Build a secure system for user sign-up, login, and profile handling.
 
@@ -29,8 +29,27 @@ Payment Integration: Implement a payment gateway to process transactions and mai
 
 Feedback & Ratings: Provide functionality for users to submit property reviews and ratings.
 
-Database Efficiency: Optimize database operations for fast and reliable data access and storage.
+Database Efficiency: Optimize database operations for fast and reliable data access and storage. <br> <h1> TEAM ROLES AND RESPONSIBILITIES </h1> <br>
+
+Backend Developer: Builds API endpoints, database structures, and core business logic.
+
+Database Administrator: Designs and optimizes databases for performance.
+
+DevOps Engineer: Manages deployment, monitoring, and scaling of backend systems.
+
+QA Engineer: Tests backend features to ensure quality and reliability.
 
 
+
+
+
+
+
+
+
+
+
+
+<body/>
 
 
