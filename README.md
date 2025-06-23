@@ -29,7 +29,7 @@ Payment Integration: Implement a payment gateway to process transactions and mai
 
 Feedback & Ratings: Provide functionality for users to submit property reviews and ratings.
 
-Database Efficiency: Optimize database operations for fast and reliable data access and storage. <br> <h1> TEAM ROLES AND RESPONSIBILITIES </h1> <br>
+Database Efficiency: Optimize database operations for fast and reliable data access and storage. <br> <h1> TEAM ROLES </h1> <br>
 
 Backend Developer: Builds API endpoints, database structures, and core business logic.
 
