@@ -93,7 +93,23 @@ Description: Implements strategies to ensure fast, efficient storage and retriev
 
 Contribution: Enhances performance and scalability, ensuring the platform can handle large volumes of data and user traffic without delays or crashes.
 
+# API Security
 
+Authentication: Verifies user identity to protect accounts and personal data.
+
+Authorization: Restricts access based on roles to prevent unauthorized actions.
+
+Rate Limiting: Controls traffic to prevent abuse and DoS attacks.
+
+Input Validation: Protects against injection and XSS attacks.
+
+Secure Payment Integration: Safeguards financial transactions and user payment data.
+
+HTTPS & Encryption: Encrypts data in transit and at rest to prevent interception.
+
+Session Management: Ensures secure and consistent user sessions.
+
+Importance: These measures protect user data, secure payments, maintain platform integrity, ensure legal compliance, and build user trust.
 
 
 
