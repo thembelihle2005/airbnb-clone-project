@@ -43,6 +43,21 @@ Docker: Provides containerization for consistent development and deployment.
 
 CI/CD Pipelines: Automates testing and deployment workflows.
 
+# Database Design
+User Management is foundational, as users must first register and log in to access other features like booking or reviewing properties. It ensures secure access to personalized data like bookings and reviews.
+
+Property Management is dependent on authenticated users (usually hosts) who create and manage property listings. These listings are then visible to other users for searching and booking.
+
+Booking System relies on both user and property data. Registered users can book available properties, and booking details are linked to user accounts and specific listings.
+
+Payment Processing is directly tied to bookings. Once a user makes a reservation, the platform must securely handle payments, linking them to the respective booking and user.
+
+Review System comes into play after a stay is completed. Only users who have booked a property can leave reviews, which are connected to the specific listing and user profile.
+
+Data Optimization supports all these features by ensuring that information (users, properties, bookings, etc.) is retrieved and stored efficiently, maintaining performance and scalability as usage grows.
+
+
+
 
 
 
