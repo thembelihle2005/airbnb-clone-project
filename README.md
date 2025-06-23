@@ -111,9 +111,29 @@ Session Management: Ensures secure and consistent user sessions.
 
 Importance: These measures protect user data, secure payments, maintain platform integrity, ensure legal compliance, and build user trust.
 
+# CI/CD Pipelines
 
+CI/CD pipelines (Continuous Integration and Continuous Deployment) are automated workflows that build, test, and deploy code changes quickly and reliably. They help ensure that new features, bug fixes, and updates are integrated smoothly into the project without breaking existing functionality.
 
+Why they are important:
 
+Speed up development by automating repetitive tasks.
+
+Improve code quality through automated testing.
+
+Enable faster and safer releases to production.
+
+Reduce human error in deployment processes.
+
+Support collaboration among developers by integrating changes continuously.
+
+Common tools used:
+
+GitHub Actions: Automates workflows directly from GitHub repositories.
+
+Docker: Creates consistent environments for building and deploying applications.
+
+Jenkins, GitLab CI, CircleCI: Other popular CI/CD platforms that automate build, test, and deploy steps.
 
 
 
